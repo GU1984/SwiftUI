@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "GRACE-FO.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
