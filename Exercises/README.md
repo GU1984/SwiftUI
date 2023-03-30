@@ -1,9 +1,6 @@
 # Exercises
 
 [Auto Scroll Tab](https://github.com/GU1984/SwiftUI/tree/main/Exercises/AutoScrollTab)
-
-![AutoScrollTab](https://user-images.githubusercontent.com/45098537/228732736-759fcc1a-5324-4ddc-830e-060333e49c40.jpg | width=100px)
-
-
+![AutoScrollTab](https://user-images.githubusercontent.com/45098537/228733260-ccf1e2d3-ad41-4fde-b444-d1b65961ee1c.jpg)
 
 
