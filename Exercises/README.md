@@ -6,3 +6,6 @@
 [Slide Courusel](https://github.com/GU1984/SwiftUI/tree/main/Exercises/SlideCourusel)<br>
 [Straggered Grid](https://github.com/GU1984/SwiftUI/tree/main/Exercises/StraggeredGridApp) <br>
 [SuncedCarouselList](https://github.com/GU1984/SwiftUI/tree/main/Exercises/SuncedCarouselList) <br>
+[ParalaxCard3D](https://github.com/GU1984/SwiftUI/tree/main/Exercises/ParalaxCard3D)
+
+![ParallaxCard3D](https://user-images.githubusercontent.com/45098537/229795336-d39c2c5d-69b8-43cd-af74-01a96c51a531.jpg)
