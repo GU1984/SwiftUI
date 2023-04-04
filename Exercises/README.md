@@ -13,4 +13,5 @@
 
 ### [SpotifyHeader](https://github.com/GU1984/SwiftUI/tree/main/Exercises/SpotifyHeader)
 
-![SpotifyScroll](https://user-images.githubusercontent.com/45098537/229795753-4702a242-1682-4e87-9508-8d614909434c.jpg)
+![SpotifyScroll](https://user-images.githubusercontent.com/45098537/229796751-3fb546fa-9264-430d-9f19-5690b160b78c.jpg)
+
