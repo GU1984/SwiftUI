@@ -6,7 +6,7 @@
 
 | Name | Screen | 
 | :-------------------------- | :----------------------------------------------------------------------:|
-|[OnBoardingScreeenLOTTIE](https://github.com/GU1984/SwiftUI/tree/main/Exercises/SpotifyHeader)|![OnBoardingScreen](https://user-images.githubusercontent.com/45098537/230077044-0c0a2791-b4f2-42a4-8a07-21e6382c8abf.png)|
+|[OnBoardingScreeenLOTTIE](https://github.com/GU1984/SwiftUI/tree/main/Exercises/OnboardingScreen)|![OnBoardingScreen](https://user-images.githubusercontent.com/45098537/230077044-0c0a2791-b4f2-42a4-8a07-21e6382c8abf.png)|
 |[SpotifyHeader](https://github.com/GU1984/SwiftUI/tree/main/Exercises/SpotifyHeader)|![SpotifyScroll](https://user-images.githubusercontent.com/45098537/229798663-add460db-bfd6-4051-913d-a058d27c91d4.jpg)|
 |[ParalaxCard3D](https://github.com/GU1984/SwiftUI/tree/main/Exercises/ParalaxCard3D)| ![ParallaxCard3D](https://user-images.githubusercontent.com/45098537/229796993-c6553dae-8c09-468a-8fc1-dd3a3e59435b.jpg)|
 |[SuncedCarouselList](https://github.com/GU1984/SwiftUI/tree/main/Exercises/SuncedCarouselList)| ![SuncedCarouselList](https://user-images.githubusercontent.com/45098537/230050877-b0c8c8e0-f945-4dbc-8f1e-9e3243f38b2b.png)|
