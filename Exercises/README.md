@@ -7,7 +7,7 @@
 |[ParalaxCard3D](https://github.com/GU1984/SwiftUI/tree/main/Exercises/ParalaxCard3D)| ![ParallaxCard3D](https://user-images.githubusercontent.com/45098537/229796993-c6553dae-8c09-468a-8fc1-dd3a3e59435b.jpg)|
 |[SuncedCarouselList](https://github.com/GU1984/SwiftUI/tree/main/Exercises/SuncedCarouselList)| ![SuncedCarouselList](https://user-images.githubusercontent.com/45098537/230050877-b0c8c8e0-f945-4dbc-8f1e-9e3243f38b2b.png)|
 |[Scene](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Scene) | ![Scene](https://user-images.githubusercontent.com/45098537/230594343-8fd8ac67-66c8-48c7-bea3-c4f6cb7c6caf.png)|
-|[Straggered Grid](https://github.com/GU1984/SwiftUI/tree/main/Exercises/StraggeredGrid) |![StraggeredGrid](https://user-images.githubusercontent.com/45098537/230594395-0e2df05b-0be3-47e1-b006-536e3b02a65a.png)|
+|[Straggered Grid](https://github.com/GU1984/SwiftUI/tree/main/Exercises/StrageredGrid) |![StraggeredGrid](https://user-images.githubusercontent.com/45098537/230594395-0e2df05b-0be3-47e1-b006-536e3b02a65a.png)|
 |[OnBoardingScreeenLOTTIE](https://github.com/GU1984/SwiftUI/tree/main/Exercises/OnboardingScreen)|![OnBoardingScreen](https://user-images.githubusercontent.com/45098537/230077044-0c0a2791-b4f2-42a4-8a07-21e6382c8abf.png)|
 |[ScrolingParalaxEffect](https://github.com/GU1984/SwiftUI/new/main/Exercises/ScrollingParallaxEffect)| ![ScrolingParalaxEffect](https://user-images.githubusercontent.com/45098537/230051169-a0128d32-1fd6-42ab-85e1-60365e261746.png)|
 |[Auto Scroll Tab](https://github.com/GU1984/SwiftUI/tree/main/Exercises/AutoScrollTab)| ![AutoScrollTab](https://user-images.githubusercontent.com/45098537/230054778-d599f743-bc44-41e5-98c2-e7c2656d2768.png)|
