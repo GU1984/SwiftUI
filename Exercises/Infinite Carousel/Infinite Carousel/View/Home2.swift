@@ -1,37 +1,41 @@
 //
-//  Main.swift
+//  Home.swift
 //  Infinite Carousel
 //
-//  Created by Георгий Усынин on 29.03.2023.
+//  Created by Георгий Усынин on 10.04.2023.
 //
 
 import SwiftUI
 
-struct Home: View {
+struct Home2: View {
     
-    @State private var colorArray = [
-        Color.red,
-        Color.orange,
-        Color.yellow,
-        Color.green,
-        Color.blue,
-        Color.purple,
-        Color.black]
-
+    
+    @State private var imageArray = [
+        "Delta_II0",
+        "Delta_II1",
+        "Delta_II12",
+        "Delta_II13",
+        "Delta_II6",
+        "Delta_II7",
+        "Delta_II8",
+        "Delta_II9"]
     
     @State private var currentPage: String = ""
-    @State private var listOfPages: [Page] = []
+    @State private var listOfPages: [Page2] = []
     
-    @State private var fakedPages: [Page] = []
+    @State private var fakedPages: [Page2] = []
     
     var body: some View {
         GeometryReader {
             let size = $0.size
             TabView(selection: $currentPage) {
                 ForEach(fakedPages) { page in
-                    RoundedRectangle(cornerRadius: 25, style: .continuous)
-                        .fill(page.color.gradient)
+                    Image(page.imageName)
+                        .resizable()
+                        .scaledToFill()
                         .frame(width: 320, height: size.height)
+                        .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
+                        
                         .tag(page.id.uuidString)
                         .offsetX(currentPage == page.id.uuidString) { rect in
                             let minX = rect.minX
@@ -57,15 +61,15 @@ struct Home: View {
             .tabViewStyle(.page(indexDisplayMode: .never))
             .overlay(alignment: .bottom) {
                 PageControl(totalPages: listOfPages.count, currentPAge: originalIndex(currentPage))
-                    .offset(y: 35)
+                    .offset(y: -35)
             }
           
         }
         .frame(height: 600)
         .onAppear{
             guard fakedPages.isEmpty else {return}
-            for color in colorArray {
-                listOfPages.append(.init(color: color))
+            for image in imageArray {
+                listOfPages.append(.init(imageName: image))
             }
             
             fakedPages.append(contentsOf: listOfPages)
@@ -82,7 +86,7 @@ struct Home: View {
         }
     }
     
-    func fakeIndex(_ of: Page) -> Int {
+    func fakeIndex(_ of: Page2) -> Int {
         return fakedPages.firstIndex(of: of) ?? 0
     }
     
@@ -93,8 +97,9 @@ struct Home: View {
     }
 }
 
-struct Home_Previews: PreviewProvider {
+struct Home2_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
 }
+
