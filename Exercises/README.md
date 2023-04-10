@@ -11,7 +11,6 @@
 |[OnBoardingScreeenLOTTIE](https://github.com/GU1984/SwiftUI/tree/main/Exercises/OnboardingScreen)|![OnBoardingScreen](https://user-images.githubusercontent.com/45098537/230077044-0c0a2791-b4f2-42a4-8a07-21e6382c8abf.png)|
 |[ScrolingParalaxEffect](https://github.com/GU1984/SwiftUI/new/main/Exercises/ScrollingParallaxEffect)| ![ScrolingParalaxEffect](https://user-images.githubusercontent.com/45098537/230051169-a0128d32-1fd6-42ab-85e1-60365e261746.png)|
 |[Auto Scroll Tab](https://github.com/GU1984/SwiftUI/tree/main/Exercises/AutoScrollTab)| ![AutoScrollTab](https://user-images.githubusercontent.com/45098537/230054778-d599f743-bc44-41e5-98c2-e7c2656d2768.png)|
-|[InfiniteCarousel](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Infinite%20Carousel) | ![InfiniteCarousel](https://user-images.githubusercontent.com/45098537/230050989-03a99619-3aaf-4842-8802-58f57df40987.png) |
 |[DeepLinks](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Deeplinks)|![Deeplink](https://user-images.githubusercontent.com/45098537/230911178-bcf527fd-bf0b-415a-951d-5521bfac1e11.png)|
 |[InfiniteCarousel](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Infinite%20Carousel)|![InfiniteCarousel](https://user-images.githubusercontent.com/45098537/230911271-f4bb040c-db54-49b2-bdb8-9cda8f6eaad7.png)|
 |[QRCodeScanner](https://github.com/GU1984/SwiftUI/tree/main/Exercises/QRCodeScanner)|![QRcodeScanner](https://user-images.githubusercontent.com/45098537/230911496-5bf425a9-2a35-4ed0-a5b3-9ec2c933b5c7.PNG)|
