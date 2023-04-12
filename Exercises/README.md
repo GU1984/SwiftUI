@@ -5,6 +5,7 @@
 | :-------------------------- | :----------------------------------------------------------------------:|
 |[SpotifyHeader](https://github.com/GU1984/SwiftUI/tree/main/Exercises/SpotifyHeader)|![SpotifyScroll](https://user-images.githubusercontent.com/45098537/229798663-add460db-bfd6-4051-913d-a058d27c91d4.jpg)|
 |[ParalaxCard3D](https://github.com/GU1984/SwiftUI/tree/main/Exercises/ParalaxCard3D)| ![ParallaxCard3D](https://user-images.githubusercontent.com/45098537/229796993-c6553dae-8c09-468a-8fc1-dd3a3e59435b.jpg)|
+|[3Dshoe](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Shoe3D)|![Shoe3d](https://user-images.githubusercontent.com/45098537/231418689-af0a324f-7448-400b-b876-f2a1d0b0503b.png)|
 |[SuncedCarouselList](https://github.com/GU1984/SwiftUI/tree/main/Exercises/SuncedCarouselList)| ![SuncedCarouselList](https://user-images.githubusercontent.com/45098537/230050877-b0c8c8e0-f945-4dbc-8f1e-9e3243f38b2b.png)|
 |[Scene](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Scene) | ![Scene](https://user-images.githubusercontent.com/45098537/230594343-8fd8ac67-66c8-48c7-bea3-c4f6cb7c6caf.png)|
 |[Straggered Grid](https://github.com/GU1984/SwiftUI/tree/main/Exercises/StrageredGrid) |![StraggeredGrid](https://user-images.githubusercontent.com/45098537/230594395-0e2df05b-0be3-47e1-b006-536e3b02a65a.png)|
@@ -14,5 +15,3 @@
 |[DeepLinks](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Deeplinks)|![Deeplink](https://user-images.githubusercontent.com/45098537/230911178-bcf527fd-bf0b-415a-951d-5521bfac1e11.png)|
 |[InfiniteCarousel](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Infinite%20Carousel)|![InfiniteCarousel](https://user-images.githubusercontent.com/45098537/230911271-f4bb040c-db54-49b2-bdb8-9cda8f6eaad7.png)|
 |[QRCodeScanner](https://github.com/GU1984/SwiftUI/tree/main/Exercises/QRCodeScanner)|![QRcodeScanner](https://user-images.githubusercontent.com/45098537/230911496-5bf425a9-2a35-4ed0-a5b3-9ec2c933b5c7.PNG)|
-
-|[3Dshoe](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Shoe3D)|![Shoe3d](https://user-images.githubusercontent.com/45098537/231418689-af0a324f-7448-400b-b876-f2a1d0b0503b.png)|
