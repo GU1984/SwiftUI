@@ -14,3 +14,5 @@
 |[DeepLinks](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Deeplinks)|![Deeplink](https://user-images.githubusercontent.com/45098537/230911178-bcf527fd-bf0b-415a-951d-5521bfac1e11.png)|
 |[InfiniteCarousel](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Infinite%20Carousel)|![InfiniteCarousel](https://user-images.githubusercontent.com/45098537/230911271-f4bb040c-db54-49b2-bdb8-9cda8f6eaad7.png)|
 |[QRCodeScanner](https://github.com/GU1984/SwiftUI/tree/main/Exercises/QRCodeScanner)|![QRcodeScanner](https://user-images.githubusercontent.com/45098537/230911496-5bf425a9-2a35-4ed0-a5b3-9ec2c933b5c7.PNG)|
+
+|[3Dshoe](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Shoe3D)|![Shoe3d](https://user-images.githubusercontent.com/45098537/231418689-af0a324f-7448-400b-b876-f2a1d0b0503b.png)|
