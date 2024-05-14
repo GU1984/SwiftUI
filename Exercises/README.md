@@ -16,16 +16,5 @@
 |[DeepLinks](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Deeplinks)|![Deeplink](https://user-images.githubusercontent.com/45098537/230911178-bcf527fd-bf0b-415a-951d-5521bfac1e11.png)| <img src="https://user-images.githubusercontent.com/45098537/230912709-25f108cd-41b0-48d7-9762-6a9807e64d99.mp4" width="150" >|
 |[!Effects](https://github.com/GU1984/SwiftUI/tree/main/Exercises/EffectAnimation)|![AnimationEffects](https://user-images.githubusercontent.com/45098537/234532492-2f590271-5ed3-405c-a182-0443a6346834.png)| <img src="https://user-images.githubusercontent.com/45098537/234532943-e99bfa94-9f86-418d-b746-fe3c688ca4c7.mp4" width="150" />|
 |[InfiniteCarousel](https://github.com/GU1984/SwiftUI/tree/main/Exercises/Infinite%20Carousel)|![InfiniteCarousel](https://user-images.githubusercontent.com/45098537/230911271-f4bb040c-db54-49b2-bdb8-9cda8f6eaad7.png)| <img src="https://user-images.githubusercontent.com/45098537/230912761-f10b4a24-930f-4756-9ab9-07d7ec839c46.mp4" width="150" >|
-|[QRCodeScanner](https://github.com/GU1984/SwiftUI/tree/main/Exercises/QRCodeScanner)|![QRcodeScanner](https://user-images.githubusercontent.com/45098537/230911496-5bf425a9-2a35-4ed0-a5b3-9ec2c933b5c7.PNG)| <img src="" width="150" >|
+|[QRCodeScanner](https://github.com/GU1984/SwiftUI/tree/main/Exercises/QRCodeScanner)|![QRcodeScanner](https://user-images.githubusercontent.com/45098537/230911496-5bf425a9-2a35-4ed0-a5b3-9ec2c933b5c7.PNG)| <img src="https://user-images.githubusercontent.com/45098537/230912949-fe6a5d1a-9508-4643-8298-14606e719d98.mp4" width="150" >|
 |[MatchGeometryEffect](https://github.com/GU1984/SwiftUI/tree/main/Exercises/MatchGeometryEffect)|![MatchGeometryEffect](https://user-images.githubusercontent.com/45098537/234760075-db4631a1-15e2-4ce4-871f-4107832e57bd.png)| <img src="https://user-images.githubusercontent.com/45098537/234759940-57bb6362-f6c4-437d-8096-93e12fca51c0.mp4" width="150" >|
-
-
-
-<img src="https://user-images.githubusercontent.com/45098537/229730961-a89655ea-796a-4e2a-8901-867c8b81ff28.mp4" width="200">
-
-
-
-![SpotifyScroll](https://user-images.githubusercontent.com/45098537/229798663-add460db-bfd6-4051-913d-a058d27c91d4.jpg)
-
-
-[video](https://user-images.githubusercontent.com/45098537/229730961-a89655ea-796a-4e2a-8901-867c8b81ff28.mp4)
